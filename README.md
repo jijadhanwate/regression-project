@@ -21,9 +21,8 @@ Rosemann_Sales_Prediction_.ipynb - Google Collab notebook containing data summar
 
 Documentation:
 
-Technical Documentation.pdf - Includes the complete documentation about the project.
+goggle colab notebook of project
 Project Presentation.pdf - Presentation of the same.
-Source Directory:
 Data & Resources.zip - Includes sales data and store data for various Rossmann stores.
 -----------------------------------------------------
 
